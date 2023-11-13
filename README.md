@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: December 4 - 5, 2023
+- Facilitator: @wesleygomes022
 
 ## Class Resources
 
